@@ -1,0 +1,5 @@
+site_name: My Docs
+site_url: https://joul2.github.io/mymkdocs/
+site_author: joul2
+theme:
+  name: material
